@@ -16,6 +16,9 @@ import attack_flow.mermaid
 import attack_flow.model
 import attack_flow.schema
 
+# TEST
+def test():
+    prinf 'Test'
 
 def main():
     """Main entry point for `af` command line."""
